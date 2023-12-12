@@ -129,6 +129,7 @@ public void firstproduct() {
 
 public void Valueofproduct() {
 	Valueofproduct.getText();
+	System.out.println("Value of product:" +Valueofproduct.getText());
 	}
 
 public void Addtocart() {

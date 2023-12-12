@@ -102,6 +102,7 @@ public class LoginSteps {
 		
 		
 		loginPage.Addtocart();
+		System.out.println();
 	  
 	}
 	
